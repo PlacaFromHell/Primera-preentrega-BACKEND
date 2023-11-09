@@ -1,4 +1,4 @@
-import {promises as fs, utimes} from 'fs'
+import {promises as fs, utimes} from 'fs';
 import {nanoid} from "nanoid";
 
 class ProductManager {
